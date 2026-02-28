@@ -20,7 +20,7 @@ This project automates the installation and configuration of Nginx on an AWS EC2
 2. Run:
    ansible-playbook nginx-playbook.yml
 3. Access:
-   http://<http://13.49.73.66:80>
+   <http://13.49.73.66:80>
 
 ## 🎯 Key Concepts Demonstrated
 - Idempotent automation
