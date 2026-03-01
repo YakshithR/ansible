@@ -1,0 +1,9 @@
+
+[web]
+docker-practice ansible_host=51.20.69.16
+
+[db]
+instance-for-practice ansible_host=13.60.40.253
+
+[all:vars]
+ansible_python_interpreter=/usr/bin/python3
